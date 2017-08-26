@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemplo2</string>
+    <string name="btn_calcular">+</string>
+    <string name="numero_1">numero 1</string>
+    <string name="numero_2">numero 2</string>
+    <string name="calcular_menos">-</string>
+    <string name="calcular_multiplicacao">*</string>
+    <string name="calcular_divisao">/</string>
+</resources>
